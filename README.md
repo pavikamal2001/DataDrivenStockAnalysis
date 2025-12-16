@@ -1,2 +1,1 @@
-# DataDrivenStockAnalysis
-Data-Driven Stock Analysis: Organizing, Cleaning, and Visualizing Market Trends  give project overview of this project in 3-5 lines
+This project focuses on analyzing stock market data using a data-driven approach to uncover meaningful market trends. It involves organizing and cleaning raw stock data to ensure accuracy and consistency for analysis. Key financial metrics such as returns, volatility, volume, and correlations are calculated and explored. The results are visualized through charts and dashboards to support clear insights and informed decision-making.
